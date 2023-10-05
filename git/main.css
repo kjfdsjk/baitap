@@ -1,0 +1,20 @@
+.list{
+    padding-left: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.list__item{
+    padding: 6px 15px 9px;
+}
+
+.range  {
+    width: 500px;
+}
+.list__item:hover{
+    background: #fff7c0 ;
+}
+
+.list__item-disable:hover{
+    background: none;
+}
